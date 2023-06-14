@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b43458b212046dd45aee97841054e4b4, type: 3}
+  m_Name: TutorialDialogueData
+  m_EditorClassIdentifier: 
+  dialogeLines:
+    keyData:
+    - tutorial_jump
+    - tutorial_jump_hint
+    - tutorial_first_watcher
+    - tutorial_first_watcher_hint
+    valueData:
+    - Character: 0
+      Translations:
+        keyData: 00000000
+        valueData:
+        - I should see if my back jet is still working...
+    - Character: 0
+      Translations:
+        keyData: 00000000
+        valueData:
+        - Maybe I need to hold my jet for longer...
+    - Character: 0
+      Translations:
+        keyData: 00000000
+        valueData:
+        - A fan? I wonder if something nearby can turn it on.
+    - Character: 0
+      Translations:
+        keyData: 00000000
+        valueData:
+        - Maybe I should try jumping with the fan direction.

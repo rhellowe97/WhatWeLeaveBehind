@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54738053da2bb3a458d75164e5bc0514, type: 3}
+  m_Name: SolarColorData
+  m_EditorClassIdentifier: 
+  startBaseColor: {r: 0.6564169, g: 0.87745607, b: 0.9339623, a: 1}
+  chargedBaseColor: {r: 0.9622642, g: 0.96100783, b: 0.82155573, a: 1}
+  startEmissionColor: {r: 0, g: 0.5559371, b: 2.3226898, a: 1}
+  chargedEmissionColor: {r: 1.4052988, g: 1.3831116, b: 0.86836857, a: 1}
